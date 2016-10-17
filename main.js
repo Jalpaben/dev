@@ -1,1 +1,1 @@
-create.log("Hello");
+console.log("Hello");
